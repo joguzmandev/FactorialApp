@@ -1,0 +1,8 @@
+En el site http://qainterview.pythonanywhere.com/, deberás: 
+1. Identificar los test cases 
+2. Automatizar con una herramienta de tu elección al menos 1 test case
+3. Documentar al menos 1 test case 
+4. Si encuentras algún bug, crear un reporte
+
+➢ Si logras hacer más de un test case automatizado y/o documentado, es un plus. 
+➢ Eres libre de utilizar cualquier método o plantilla para la documentación de los test cases y el reporte de los bugs. Nota: No es necesario probar el link de Qxf2 Services.
